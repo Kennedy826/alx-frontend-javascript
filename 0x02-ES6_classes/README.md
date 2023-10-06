@@ -1,1 +1,1 @@
-## 0x02. ES6 classes
+Learning ES6 classes
